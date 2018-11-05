@@ -27,8 +27,6 @@
 
 `backend` 后端；n；`backend developer` 后端开发人员；
 
-`hierarchy` 等级制度；层级；n；
-
 `blend` 混合；v；`to blend A and B` 把A和B混合起来；
 
 `bootcamp` 训练营；集训；n；
@@ -73,9 +71,9 @@
 
 #### H
 
+`hierarchy` 等级制度；层级；n；
+
 #### I
-
-
 
 `inherently` 内在的；adv；
 
